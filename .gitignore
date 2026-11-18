@@ -1,0 +1,8 @@
+# Сборка — получается из build.sh
+Toss.app/
+
+# Промежуточные файлы make_icon.swift
+AppIcon.iconset/
+AppIcon-preview.png
+
+.DS_Store
